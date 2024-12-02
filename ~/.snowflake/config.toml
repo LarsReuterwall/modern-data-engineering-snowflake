@@ -1,0 +1,10 @@
+default_connection_name = "modern_data_engineering_snowflake"
+
+[connections.modern_data_engineering_snowflake]
+account="TCVQAAN-ZHB43843"
+user="LarReu"
+password="^1yq5WxUdZFJLaxJfv2r%"
+warehouse="COMPUTE_WH"
+database="LOAD_DATA"
+schema="PUBLIC"
+role="ACCOUNTADMIN" 
